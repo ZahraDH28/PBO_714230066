@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\p2_1_714230066\bin\Debug\net8.0\P2_1_714230066.exe
+C:\Users\Admin\source\repos\P2_1_714230066\bin\Debug\net8.0\P2_1_714230066.deps.json
+C:\Users\Admin\source\repos\P2_1_714230066\bin\Debug\net8.0\P2_1_714230066.runtimeconfig.json
+C:\Users\Admin\source\repos\p2_1_714230066\bin\Debug\net8.0\P2_1_714230066.dll
+C:\Users\Admin\source\repos\p2_1_714230066\bin\Debug\net8.0\P2_1_714230066.pdb
+C:\Users\Admin\source\repos\p2_1_714230066\obj\Debug\net8.0\P2_1_714230066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\p2_1_714230066\obj\Debug\net8.0\P2_1_714230066.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\p2_1_714230066\obj\Debug\net8.0\P2_1_714230066.AssemblyInfo.cs
+C:\Users\Admin\source\repos\p2_1_714230066\obj\Debug\net8.0\P2_1_714230066.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\p2_1_714230066\obj\Debug\net8.0\P2_1_714230066.dll
+C:\Users\Admin\source\repos\p2_1_714230066\obj\Debug\net8.0\refint\P2_1_714230066.dll
+C:\Users\Admin\source\repos\p2_1_714230066\obj\Debug\net8.0\P2_1_714230066.pdb
+C:\Users\Admin\source\repos\P2_1_714230066\obj\Debug\net8.0\P2_1_714230066.genruntimeconfig.cache
+C:\Users\Admin\source\repos\P2_1_714230066\obj\Debug\net8.0\ref\P2_1_714230066.dll
