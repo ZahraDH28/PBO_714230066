@@ -1,0 +1,12 @@
+1. karena myType di dalam Product_NPM didekarasikan protected, jadi yang hanya bisa akses adalah class 
+	itu sendiri ataupun class turunannya(subclass). karena ProductTest_NPM bukan turunan dari class Product_NPM ini,
+	maka ProductTest_NPM ini tidak bisa mengakses myType.
+
+2. karena value myType nya null jadi tampilannya berubah
+
+3. karena nilai dari myType di dalam ProductTest_NPM ini di set menjadi DVD, maka tampilan yang muncul dilayar adalah DVD.
+
+4. Setelah menambahkan metode DisplayInfo di Book_NPM, tipe dan judul buku muncul di output.
+
+5. Karena objek product2 dibuat menggunakan class DVD_123, bukan class Product_123. Jadi secara langsung 
+	class DVD_123 merupakan subclass (turunan) dari Product_123
