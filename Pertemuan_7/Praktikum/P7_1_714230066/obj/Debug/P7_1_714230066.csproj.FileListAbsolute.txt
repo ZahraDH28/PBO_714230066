@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\P7_1_714230066\bin\Debug\P7_1_714230066.exe.config
+C:\Users\Admin\source\repos\P7_1_714230066\bin\Debug\P7_1_714230066.exe
+C:\Users\Admin\source\repos\P7_1_714230066\bin\Debug\P7_1_714230066.pdb
+C:\Users\Admin\source\repos\P7_1_714230066\obj\Debug\P7_1_714230066.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\P7_1_714230066\obj\Debug\P7_1_714230066.Form1.resources
+C:\Users\Admin\source\repos\P7_1_714230066\obj\Debug\P7_1_714230066.Properties.Resources.resources
+C:\Users\Admin\source\repos\P7_1_714230066\obj\Debug\P7_1_714230066.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\P7_1_714230066\obj\Debug\P7_1_714230066.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\P7_1_714230066\obj\Debug\P7_1_714230066.exe
+C:\Users\Admin\source\repos\P7_1_714230066\obj\Debug\P7_1_714230066.pdb
